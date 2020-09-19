@@ -1,0 +1,5 @@
+total_seconds=int(input("Enter number of seconds"))
+hours=int(total_seconds//3600)
+minutes=int((total_seconds%3600)//60)
+seconds=int((total_seconds%3600)%60)
+print("Hours:",hours,",","Minutes:",minutes,",","Seconds:",seconds)

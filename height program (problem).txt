@@ -1,0 +1,4 @@
+height=input(float('What is your height(cm)? ')
+height1=float(height*0.393700787)
+print('Your height is',height1,'inches')
+
