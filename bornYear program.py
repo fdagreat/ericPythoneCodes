@@ -1,4 +1,4 @@
-name=input("What is your name?: ")
+name=input("Hello What is your name? : ")
 age=input("How old are you?: ")
 Age=int(age)
 print("Hello",name,Age)
